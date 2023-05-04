@@ -37,6 +37,10 @@ This Repository contains the code to train and infer comic book page and get the
 
 - Use this checkpoint for inference
 
+## Faster R-CNN
+- All the code used for training the Faster R-CNN models can be found in Faster_RCNN/FasterRCNN.ipynb
+- Can be run on a Google Colab notebook once the datasets are added and the respective data paths are updated.
+
 ---
 ## How to infer?
 
@@ -99,3 +103,4 @@ This Repository contains the code to train and infer comic book page and get the
 ## References:
 
 Yolov5 code: https://github.com/ultralytics/yolov5
+Faster R-CNN: https://pytorch.org/vision/main/models/faster_rcnn.html
