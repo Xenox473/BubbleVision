@@ -104,3 +104,4 @@ This Repository contains the code to train and infer comic book page and get the
 
 Yolov5 code: https://github.com/ultralytics/yolov5
 Faster R-CNN: https://pytorch.org/vision/main/models/faster_rcnn.html
+The Dataset used was from: https://obj.umiacs.umd.edu/comics/index.html 
