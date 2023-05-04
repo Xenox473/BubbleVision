@@ -41,7 +41,7 @@ This Repository contains the code to train and infer comic book page and get the
 ## How to infer?
 
 - Clone this repository
-    > git clone https://github.com/SiddhanthHegde/comicbook-infer.git \
+    > git clone https://github.iu.edu/cs-b657-sp2023/bubble-vision.git \
     > cd comicbook-infer.git
 
 - Install the requirements in your virtual environment:
