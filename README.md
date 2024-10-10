@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.graphicaction.com.au/wp-content/uploads/2020/10/comic-books-featured.png"/ height = 300 width = 100%>
+    <img src="poster.jpg"/>
 </div>
 
 <div align="center">
